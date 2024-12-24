@@ -12,6 +12,7 @@ This challenges help you improve your coding skills by building realistic projec
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
 **##Screenshot**
+![car type cards ](https://github.com/user-attachments/assets/63f86c02-7157-4f0d-a051-c2e15dea3589)
 
 
 ## The challenge
