@@ -1,0 +1,125 @@
+body{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+}
+main{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.secondbox{
+    /* margin: auto; */
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem;
+    max-width: 910px;
+    margin-inline: auto;
+    /* box-sizing: border-box; */
+    
+    
+}
+.firstcolbox{
+    
+    background-color: hsl(31, 77%, 52%);
+    width: 288px;
+    height: 471px;
+    border-top-left-radius:12px;
+    border-bottom-left-radius: 12px;
+}
+ .secondcolbox{
+    background-color: hsl(184, 100%, 22%);
+    width: 288px;
+    height: 471px;
+
+ }
+ .thirdcolbox{
+    background-color: hsl(179, 100%, 13%);
+    width: 288px;
+    height: 471px;
+    border-top-right-radius:12px;
+    border-bottom-right-radius: 12px;
+
+ }
+ /* .thirdcolbox a{
+    margin-top: 25px;
+   } */
+ .icon{
+   padding-left: 40px;
+   padding-top: 50px;
+   width: 64px;
+   height: 40px;
+ }
+ h1{
+    color: hsl(0, 0%, 95%);
+    padding-top: 35px;
+    padding-left: 40px;
+    margin: 0;
+    color: hsl(0, 0%, 95%);
+ }
+ .content{
+    padding: 2.5rem;
+    color: hsla(0, 0%, 100%, 0.75);
+    margin: 0;
+    
+    
+    
+ }
+   .box{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+   }
+ a {
+    padding: 1em 2em;
+    border-radius: 40px;
+    border: 2px solid white;
+    /* width: 125px; */
+    text-decoration: none;
+    /* margin-left:auto; */
+    background-color: white;
+    /* display: inline-block; */
+    text-align: center;
+    align-self: flex-start;
+    margin-top: auto;
+    /* align-self: flex-end; */
+    /* margin-top: 25px;
+    margin-left: 35px; */
+
+ }
+ 
+ .a1{
+      color: hsl(31, 77%, 52%);
+ }
+ .a2{
+    color: hsl(184, 100%, 22%);
+ }
+ .a3{
+      color: hsl(179, 100%, 13%);
+ }
+
+
+p {
+  font-family: "Lexend Deca", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+h1 {
+  font-family: "Big Shoulders Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+a {
+    font-family: "Lexend Deca", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
